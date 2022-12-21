@@ -1,0 +1,7 @@
+{"base theory": "testing, bagreports, etc.",
+"HTTP": "structure HTTP, HTTP methods, etc.",
+"API": "Postman, JS Automation",
+"Sniffing": "Charles, Fidler",
+"Bash": "Linux terminal"
+}
+
